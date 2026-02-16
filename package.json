@@ -1,0 +1,24 @@
+{
+  "name": "employeepayrollsystem-brudgelabz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash7505gautam/EmployeePayRollsystem-bridgelabz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash7505gautam/EmployeePayRollsystem-bridgelabz/issues"
+  },
+  "homepage": "https://github.com/akash7505gautam/EmployeePayRollsystem-bridgelabz#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^4.0.1",
+    "express": "^5.2.1"
+  }
+}
